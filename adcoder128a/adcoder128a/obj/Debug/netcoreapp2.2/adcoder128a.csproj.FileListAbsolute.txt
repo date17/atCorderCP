@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/bin/Debug/netcoreapp2.2/adcoder128a.deps.json
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/bin/Debug/netcoreapp2.2/adcoder128a.runtimeconfig.json
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/bin/Debug/netcoreapp2.2/adcoder128a.runtimeconfig.dev.json
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/bin/Debug/netcoreapp2.2/adcoder128a.dll
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/bin/Debug/netcoreapp2.2/adcoder128a.pdb
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/obj/Debug/netcoreapp2.2/adcoder128a.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/obj/Debug/netcoreapp2.2/adcoder128a.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/obj/Debug/netcoreapp2.2/adcoder128a.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/obj/Debug/netcoreapp2.2/adcoder128a.AssemblyInfo.cs
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/obj/Debug/netcoreapp2.2/adcoder128a.dll
+/Users/minamidatetakuya/Projects/adcoder128a/adcoder128a/obj/Debug/netcoreapp2.2/adcoder128a.pdb

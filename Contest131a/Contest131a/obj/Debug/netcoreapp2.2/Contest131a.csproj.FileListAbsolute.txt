@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/Debug/netcoreapp2.2/Contest131a.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/Debug/netcoreapp2.2/Contest131a.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/Debug/netcoreapp2.2/Contest131a.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/Debug/netcoreapp2.2/Contest131a.AssemblyInfo.cs
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/bin/Debug/netcoreapp2.2/Contest131a.deps.json
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/bin/Debug/netcoreapp2.2/Contest131a.runtimeconfig.json
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/bin/Debug/netcoreapp2.2/Contest131a.runtimeconfig.dev.json
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/bin/Debug/netcoreapp2.2/Contest131a.dll
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/bin/Debug/netcoreapp2.2/Contest131a.pdb
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/Debug/netcoreapp2.2/Contest131a.dll
+/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/Debug/netcoreapp2.2/Contest131a.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/minamidatetakuya/Desktop/atCoder/atcoder127b/atcoder127b/atcoder127b.csproj": {}
+  },
+  "projects": {
+    "/Users/minamidatetakuya/Desktop/atCoder/atcoder127b/atcoder127b/atcoder127b.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/minamidatetakuya/Desktop/atCoder/atcoder127b/atcoder127b/atcoder127b.csproj",
+        "projectName": "atcoder127b",
+        "projectPath": "/Users/minamidatetakuya/Desktop/atCoder/atcoder127b/atcoder127b/atcoder127b.csproj",
+        "packagesPath": "/Users/minamidatetakuya/.nuget/packages/",
+        "outputPath": "/Users/minamidatetakuya/Desktop/atCoder/atcoder127b/atcoder127b/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/minamidatetakuya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

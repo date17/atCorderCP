@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/bin/Debug/netcoreapp2.2/adcoder127a.deps.json
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/bin/Debug/netcoreapp2.2/adcoder127a.runtimeconfig.json
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/bin/Debug/netcoreapp2.2/adcoder127a.runtimeconfig.dev.json
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/bin/Debug/netcoreapp2.2/adcoder127a.dll
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/bin/Debug/netcoreapp2.2/adcoder127a.pdb
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/obj/Debug/netcoreapp2.2/adcoder127a.csprojAssemblyReference.cache
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/obj/Debug/netcoreapp2.2/adcoder127a.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/obj/Debug/netcoreapp2.2/adcoder127a.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/obj/Debug/netcoreapp2.2/adcoder127a.AssemblyInfo.cs
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/obj/Debug/netcoreapp2.2/adcoder127a.dll
+/Users/minamidatetakuya/adcoder/adcoder127a/adcoder127a/obj/Debug/netcoreapp2.2/adcoder127a.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/minamidatetakuya/Projects/Contest131a/Contest131a/Contest131a.csproj": {}
+  },
+  "projects": {
+    "/Users/minamidatetakuya/Projects/Contest131a/Contest131a/Contest131a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/minamidatetakuya/Projects/Contest131a/Contest131a/Contest131a.csproj",
+        "projectName": "Contest131a",
+        "projectPath": "/Users/minamidatetakuya/Projects/Contest131a/Contest131a/Contest131a.csproj",
+        "packagesPath": "/Users/minamidatetakuya/.nuget/packages/",
+        "outputPath": "/Users/minamidatetakuya/Projects/Contest131a/Contest131a/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/minamidatetakuya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

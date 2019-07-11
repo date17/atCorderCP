@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7BCC38BC-1FCE-41C9-885F-B17C76D26E88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="adcoder128a/Program.cs">
+    <Files>
+      <File FileName="adcoder128a/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="adcoder128a" expanded="True">
+            <Node name="adcoder128a" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.adcoder128a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

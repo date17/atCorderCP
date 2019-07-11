@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{852C887E-F740-48DD-AE95-2991677BD358}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="atcorder126a/Program.cs">
+    <Files>
+      <File FileName="atcorder126a/Program.cs" Line="17" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="atcorder126a" expanded="True">
+            <Node name="atcorder126a" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.atcorder126a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

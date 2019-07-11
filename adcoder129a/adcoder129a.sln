@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adcoder129a", "adcoder129a\adcoder129a.csproj", "{CEDC8EC1-8457-4FE9-879F-F43A6BCF4AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDC8EC1-8457-4FE9-879F-F43A6BCF4AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDC8EC1-8457-4FE9-879F-F43A6BCF4AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDC8EC1-8457-4FE9-879F-F43A6BCF4AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDC8EC1-8457-4FE9-879F-F43A6BCF4AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

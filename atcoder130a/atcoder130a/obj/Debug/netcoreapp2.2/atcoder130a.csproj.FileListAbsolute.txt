@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/bin/Debug/netcoreapp2.2/atcoder130a.deps.json
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/bin/Debug/netcoreapp2.2/atcoder130a.runtimeconfig.json
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/bin/Debug/netcoreapp2.2/atcoder130a.runtimeconfig.dev.json
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/bin/Debug/netcoreapp2.2/atcoder130a.dll
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/bin/Debug/netcoreapp2.2/atcoder130a.pdb
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/obj/Debug/netcoreapp2.2/atcoder130a.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/obj/Debug/netcoreapp2.2/atcoder130a.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/obj/Debug/netcoreapp2.2/atcoder130a.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/obj/Debug/netcoreapp2.2/atcoder130a.AssemblyInfo.cs
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/obj/Debug/netcoreapp2.2/atcoder130a.dll
+/Users/minamidatetakuya/Projects/atcoder130a/atcoder130a/obj/Debug/netcoreapp2.2/atcoder130a.pdb

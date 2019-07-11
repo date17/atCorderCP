@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/bin/Debug/netcoreapp2.2/atcorder126a.deps.json
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/bin/Debug/netcoreapp2.2/atcorder126a.runtimeconfig.json
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/bin/Debug/netcoreapp2.2/atcorder126a.runtimeconfig.dev.json
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/bin/Debug/netcoreapp2.2/atcorder126a.dll
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/bin/Debug/netcoreapp2.2/atcorder126a.pdb
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/obj/Debug/netcoreapp2.2/atcorder126a.csprojAssemblyReference.cache
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/obj/Debug/netcoreapp2.2/atcorder126a.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/obj/Debug/netcoreapp2.2/atcorder126a.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/obj/Debug/netcoreapp2.2/atcorder126a.AssemblyInfo.cs
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/obj/Debug/netcoreapp2.2/atcorder126a.dll
+/Users/minamidatetakuya/adcoder/atcorder126a/atcorder126a/obj/Debug/netcoreapp2.2/atcorder126a.pdb

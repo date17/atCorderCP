@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/bin/Debug/netcoreapp2.2/atcoder124b.deps.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/bin/Debug/netcoreapp2.2/atcoder124b.runtimeconfig.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/bin/Debug/netcoreapp2.2/atcoder124b.runtimeconfig.dev.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/bin/Debug/netcoreapp2.2/atcoder124b.dll
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/bin/Debug/netcoreapp2.2/atcoder124b.pdb
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/obj/Debug/netcoreapp2.2/atcoder124b.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/obj/Debug/netcoreapp2.2/atcoder124b.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/obj/Debug/netcoreapp2.2/atcoder124b.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/obj/Debug/netcoreapp2.2/atcoder124b.AssemblyInfo.cs
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/obj/Debug/netcoreapp2.2/atcoder124b.dll
+/Users/minamidatetakuya/Desktop/atCoder/atcoder124b/atcoder124b/obj/Debug/netcoreapp2.2/atcoder124b.pdb

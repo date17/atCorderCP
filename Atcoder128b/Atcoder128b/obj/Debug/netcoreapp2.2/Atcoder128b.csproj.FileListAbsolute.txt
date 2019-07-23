@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/bin/Debug/netcoreapp2.2/Atcoder128b.deps.json
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/bin/Debug/netcoreapp2.2/Atcoder128b.runtimeconfig.json
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/bin/Debug/netcoreapp2.2/Atcoder128b.runtimeconfig.dev.json
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/bin/Debug/netcoreapp2.2/Atcoder128b.dll
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/bin/Debug/netcoreapp2.2/Atcoder128b.pdb
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/obj/Debug/netcoreapp2.2/Atcoder128b.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/obj/Debug/netcoreapp2.2/Atcoder128b.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/obj/Debug/netcoreapp2.2/Atcoder128b.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/obj/Debug/netcoreapp2.2/Atcoder128b.AssemblyInfo.cs
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/obj/Debug/netcoreapp2.2/Atcoder128b.dll
+/Users/minamidatetakuya/Projects/Atcoder128b/Atcoder128b/obj/Debug/netcoreapp2.2/Atcoder128b.pdb

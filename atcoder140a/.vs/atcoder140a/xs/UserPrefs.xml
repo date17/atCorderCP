@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DC39C61F-2848-4793-B3F3-F8E32A58028D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="atcoder140a/Program.cs">
+    <Files>
+      <File FileName="atcoder140a/Program.cs" Line="2" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="atcoder140a" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.atcoder140a PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

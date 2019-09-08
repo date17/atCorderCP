@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/obj/Debug/netcoreapp2.2/atcoder140a.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/obj/Debug/netcoreapp2.2/atcoder140a.csproj.CoreCompileInputs.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/obj/Debug/netcoreapp2.2/atcoder140a.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/obj/Debug/netcoreapp2.2/atcoder140a.AssemblyInfo.cs
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/bin/Debug/netcoreapp2.2/atcoder140a.deps.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/bin/Debug/netcoreapp2.2/atcoder140a.runtimeconfig.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/bin/Debug/netcoreapp2.2/atcoder140a.runtimeconfig.dev.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/bin/Debug/netcoreapp2.2/atcoder140a.dll
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/bin/Debug/netcoreapp2.2/atcoder140a.pdb
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/obj/Debug/netcoreapp2.2/atcoder140a.dll
+/Users/minamidatetakuya/Desktop/atCoder/atcoder140a/atcoder140a/obj/Debug/netcoreapp2.2/atcoder140a.pdb

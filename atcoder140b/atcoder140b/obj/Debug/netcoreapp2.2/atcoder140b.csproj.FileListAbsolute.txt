@@ -1,0 +1,10 @@
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/obj/Debug/netcoreapp2.2/atcoder140b.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/obj/Debug/netcoreapp2.2/atcoder140b.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/obj/Debug/netcoreapp2.2/atcoder140b.AssemblyInfo.cs
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/bin/Debug/netcoreapp2.2/atcoder140b.deps.json
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/bin/Debug/netcoreapp2.2/atcoder140b.runtimeconfig.json
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/bin/Debug/netcoreapp2.2/atcoder140b.runtimeconfig.dev.json
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/bin/Debug/netcoreapp2.2/atcoder140b.dll
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/bin/Debug/netcoreapp2.2/atcoder140b.pdb
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/obj/Debug/netcoreapp2.2/atcoder140b.dll
+/Users/minamidatetakuya/Projects/atcoder140b/atcoder140b/obj/Debug/netcoreapp2.2/atcoder140b.pdb

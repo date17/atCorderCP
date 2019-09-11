@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/minamidatetakuya/Desktop/atCoder/atcoder138b/atcoder138b/atcoder138b.csproj": {}
+  },
+  "projects": {
+    "/Users/minamidatetakuya/Desktop/atCoder/atcoder138b/atcoder138b/atcoder138b.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/minamidatetakuya/Desktop/atCoder/atcoder138b/atcoder138b/atcoder138b.csproj",
+        "projectName": "atcoder138b",
+        "projectPath": "/Users/minamidatetakuya/Desktop/atCoder/atcoder138b/atcoder138b/atcoder138b.csproj",
+        "packagesPath": "/Users/minamidatetakuya/.nuget/packages/",
+        "outputPath": "/Users/minamidatetakuya/Desktop/atCoder/atcoder138b/atcoder138b/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/minamidatetakuya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100-preview9-014004/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

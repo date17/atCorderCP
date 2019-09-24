@@ -1,0 +1,11 @@
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/bin/Debug/netcoreapp3.0/atcoder136b
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/bin/Debug/netcoreapp3.0/atcoder136b.deps.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/bin/Debug/netcoreapp3.0/atcoder136b.runtimeconfig.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/bin/Debug/netcoreapp3.0/atcoder136b.runtimeconfig.dev.json
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/bin/Debug/netcoreapp3.0/atcoder136b.dll
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/bin/Debug/netcoreapp3.0/atcoder136b.pdb
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/obj/Debug/netcoreapp3.0/atcoder136b.csprojAssemblyReference.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/obj/Debug/netcoreapp3.0/atcoder136b.AssemblyInfoInputs.cache
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/obj/Debug/netcoreapp3.0/atcoder136b.AssemblyInfo.cs
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/obj/Debug/netcoreapp3.0/atcoder136b.dll
+/Users/minamidatetakuya/Desktop/atCoder/atcoder136b/atcoder136b/obj/Debug/netcoreapp3.0/atcoder136b.pdb
